@@ -4,17 +4,13 @@ _advanced version chat application in laravel, with admin controll_
 
 *To implement chat application in your website, contact developer.rajul@gmail.com*
 
-admin multi user window chat
-[DEMO](http://eternalsolutions.in/admin)
-`email: admin@gmail.com
-password: 123456
-`
+[DEMO::admin](http://eternalsolutions.in/admin) <br>
+`email: admin@gmail.com`
+`password: 123456`
 
-Non-admin single window chat
-[DEMO](http://eternalsolutions.in/guest)
-`email: jonshow@gmail.com
-password: 123456
-`
+[DEMO::user](http://eternalsolutions.in/guest) <br>
+`email: jonshow@gmail.com`
+`password: 123456`
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/razzul/r-chat/master/screenshots/dashboard.png">
