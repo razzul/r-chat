@@ -5,17 +5,17 @@ _advanced version chat application in laravel, with admin controll_
 *To implement chat application in your website, contact developer.rajul@gmail.com*
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/razzul/razul-laravel-chat/master/screenshots/dashboard.png">
+  <img src="https://raw.githubusercontent.com/razzul/r-chat/master/screenshots/dashboard.png">
 </p>
 <p align="center">
-  <img src="https://raw.githubusercontent.com/razzul/razul-laravel-chat/master/screenshots/chat.png">
+  <img src="https://raw.githubusercontent.com/razzul/r-chat/master/screenshots/chat.png">
 </p>
 <p align="center">
-  <img src="https://raw.githubusercontent.com/razzul/razul-laravel-chat/master/screenshots/user.png">
+  <img src="https://raw.githubusercontent.com/razzul/r-chat/master/screenshots/user.png">
 </p>
 
 > git clone https://github.com/razzul/r-chat.git <br>
-> cd razul-laravel-chat
+> cd r-chat
 
 > composer install <br>
 > cp .env.example .env <br>
